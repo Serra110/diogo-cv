@@ -1,1 +1,1 @@
-#My CV built with HTML,CSS and JS 
+My CV built with HTML,CSS and JS 
